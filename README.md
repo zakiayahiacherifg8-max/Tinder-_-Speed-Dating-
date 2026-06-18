@@ -121,7 +121,7 @@ Les critères de compatibilité ne devraient pas être symétriques H/F — les 
 - **Source** : Columbia Business School Speed Dating Experiment
 - **Période** : 2002–2004
 - **Format** : CSV (8 378 lignes × 195 colonnes)
-- **Documentation** : Data key fournie par les auteurs de l'étude
+- **Documentation** : fichier data.csv et Data key fournies par Jedha pour l'analyse.
 
 ---
 
